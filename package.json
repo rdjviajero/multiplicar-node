@@ -1,0 +1,14 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "practica ejercicios anteriores",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juan david rendon",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
+}
